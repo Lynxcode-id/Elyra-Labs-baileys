@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lynxcode-id/picture/main/1792592910326.jpeg" width="160" alt="Elyra Baileys logo"/>
+<img src="https://raw.githubusercontent.com/Lynxcode-id/picture/main/1792592910326.jpeg" width="450" alt="Elyra Baileys logo"/>
 
 # @elyra-labs/baileys
 
