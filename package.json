@@ -1,6 +1,6 @@
 {
   "name": "@elyra-labs/baileys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Elyra Baileys: an enhanced, ESM-only WhatsApp Web (multi-device) library for Node.js by Elyra Labs (Lynxcode-id). Forked from @vanzxy/baileys, built on @itsliaaa/baileys and WhiskeySockets/Baileys.",
   "type": "module",
   "main": "./lib/index.js",
