@@ -31,12 +31,6 @@ sock.ev.on('connection.update', ({ connection, lastDisconnect }) => {
 
 Dokumentasi lengkap fitur (Builders, AIRich, Bot framework, VoIP, store, dll): [docs/FEATURES.md](docs/FEATURES.md).
 
-## Perbedaan dengan upstream
-
-- **Auto-follow channel dimatikan secara default.** Aktifkan manual: `makeWASocket({ autoFollowNewsletterOnConnect: true, autoFollowNewsletterJid: '...@newsletter' })`.
-- Tidak ada channel / grup / donate link bawaan yang dipaksakan.
-- Banner startup bisa dimatikan: `ELYRA_BANNER=0`.
-
 ## Kontributor & Credits
 
 Package ini adalah fork berantai. Kredit tetap ke semua pengembang asli:
